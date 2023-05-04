@@ -36,7 +36,7 @@ Hooks.on("setup", () => {
             "Animal Care",
             "Charm",
             "Cool",
-            "Haggle,",
+            "Haggle",
             "Lore (Hochland)",
             "Melee (Basic)",
             "Outdoor Survival",
