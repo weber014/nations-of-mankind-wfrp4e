@@ -14,7 +14,7 @@
   ],
   "url": "https://github.com/Cpt-Igloo/nations-of-mankind-wfrp4e",
   "flags": {},
-  "version": "1.1.0",
+  "version": "1.1.1",
   "minimumCoreVersion": "0.8.4",
   "compatibleCoreVersion": "9",
   "system": ["wfrp4e"],
@@ -145,8 +145,8 @@
   ],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/Cpt-Igloo/nations-of-mankind-wfrp4e/main/module.json",
-  "download": "https://github.com/Cpt-Igloo/nations-of-mankind-wfrp4e/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/weber014/nations-of-mankind-wfrp4e/main/module.json",
+  "download": "https://github.com/weber014/nations-of-mankind-wfrp4e/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false
 }
